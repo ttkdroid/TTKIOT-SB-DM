@@ -2,7 +2,7 @@
 
 This is a sample firmware to explore a few functions of the embedded RGB LED strip of the prototype board TTKIOT-SB-DM.
 
-![TTKIOT-SB-DM](https://github.com/TTKLabsenter code here/TTKIOT-SB-DM/blob/main/doc/ttkiot-sb-dm.gif)
+![TTKIOT-SB-DM](https://github.com/TTKLabs/TTKIOT-SB-DM/blob/main/doc/ttkiot-sb-dm.gif)
 
 ## Installation
 If you are not familiar with Arduino coding, below you will find the steps to load this demo code in your board.
