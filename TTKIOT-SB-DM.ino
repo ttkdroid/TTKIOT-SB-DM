@@ -1,7 +1,6 @@
 #include "pindefs.h"
 #include "leds.h"
 #include "button.h"
-#include <PubSubClient.h>
 #include <WiFi.h>
 #include <WebServer.h>
 
