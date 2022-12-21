@@ -18,4 +18,4 @@ If you are not familiar with Arduino coding, below you will find the steps to lo
  9. Press the button with a Green arrow or go to menu Sketch>Upload
  10. The code will be compiled and uploaded to your board.
 
-Feel free to play around with this code and explore the board capabilities. This board can do anything anything that can be done with any ESP board. 
+Feel free to play around with this code and explore the board capabilities. This board can do anything that can be done with any ESP board. 
