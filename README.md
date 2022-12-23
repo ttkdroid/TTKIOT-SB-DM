@@ -13,7 +13,7 @@ If you are not familiar with Arduino coding, below you will find the steps to lo
  4. On ArduinoIDE, open the folder containing the code and select the file TTKIOT-SB-DM.ino
  5. On this file, update your Wifi credentials (SSID and Password)
  6. Go to Tools>Board and select ESP32-PICO-D4
- 7. Go to Tools>Manage Libraries and seard for the [FastLED](https://github.com/FastLED/FastLED) Library (this is the one that drives the LEDs)
+ 7. Go to Tools>Manage Libraries and search for the [FastLED](https://github.com/FastLED/FastLED) Library (this is the one that drives the LEDs)
  8. Plug your TTKIOT-SB-DM board to your computer using an USB-C cable (make sure you are using a cable that is able to transmit data)
  9. Select the Port that will show up in the menu Tools>Port
  10. Press the button with a Green arrow or go to menu Sketch>Upload
