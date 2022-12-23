@@ -1,7 +1,7 @@
 #ifndef __LEDS_H
 #define __LEDS_H
 #include "pindefs.h"
-#include "<FastLED.h>"
+#include <FastLED.h>
 
 
 void ledSetup();
